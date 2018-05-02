@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">moments</string>
+    <string name="dialog_message">请稍后...</string>
+    <string name="moments_title">moments</string>
+    <string name="img_back_title">返回</string>
+    <string name="collapse_full_title">Full Text</string>
+    <string name="collapse_title">Collapse</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/collapse_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/input_tx_color"
+        android:textSize="@dimen/sp_14" />
+
+    <TextView
+        android:id="@+id/collapse_deal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textColor="@color/item_tx_color"
+        android:textSize="@dimen/sp_15"
+        android:text="@string/collapse_full_title"
+        android:visibility="gone" />
+
+</LinearLayout>

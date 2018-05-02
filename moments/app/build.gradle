@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.ext.android.compileSdkVersion
+    buildToolsVersion rootProject.ext.android.buildToolsVersion
+
+    defaultConfig {
+        applicationId "com.thoughtworks.chengdu.gb.moments"
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+        versionCode rootProject.ext.android.versionCode
+        versionName rootProject.ext.android.versionName
+
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':refresh-footer')
+    compile project(':refresh-header')
+    compile project(':refresh-layout')
+    compile rootProject.ext.dependencies["butterknife"]
+    annotationProcessor rootProject.ext.dependencies["butterknife-apt"]
+    compile rootProject.ext.dependencies["picasso"]
+    compile rootProject.ext.dependencies["avi-loading"]
+    compile rootProject.ext.dependencies["appcompat-v7"]
+    compile rootProject.ext.dependencies["support-v4"]
+    compile rootProject.ext.dependencies["appcompat-v7"]
+    compile rootProject.ext.dependencies["support-v4"]
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile project(":mvp")
+    compile project(":swipeback")
+    compile rootProject.ext.dependencies["zxing"]
+    compile 'com.github.LuckSiege.PictureSelector:picture_library:v2.2.0'
+    compile 'com.github.Awent:PhotoPick-Master:v1.095'
+
+}

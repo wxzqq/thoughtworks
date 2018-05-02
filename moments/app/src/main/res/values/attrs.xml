@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="titlebar">
+        <attr name="servicevisibility" format="boolean" />
+        <attr name="rightbtnvisibility" format="boolean" />
+        <attr name="backvisibility" format="boolean" />
+        <attr name="rightbtntext" format="string" />
+        <attr name="drawableleft" format="reference" />
+        <attr name="titletext" format="string" />
+    </declare-styleable>
+</resources>

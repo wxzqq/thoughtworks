@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/GB/Desktop/moments/mvp/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/GB/.android/build-cache/4eb2ff8bbf127a13faf2a334586a7fcd418ff000/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/GB/Desktop/moments/mvp/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/GB/.android/build-cache/2aabdd3788bd0415a1d178de5774fe4780ead4fc/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/GB/Desktop/moments/mvp/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/GB/.android/build-cache/4eb2ff8bbf127a13faf2a334586a7fcd418ff000/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/GB/Desktop/moments/mvp/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/GB/.android/build-cache/4eb2ff8bbf127a13faf2a334586a7fcd418ff000/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/GB/Desktop/moments/mvp/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/GB/.android/build-cache/4eb2ff8bbf127a13faf2a334586a7fcd418ff000/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/GB/Desktop/moments/mvp/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/GB/.android/build-cache/2aabdd3788bd0415a1d178de5774fe4780ead4fc/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/GB/Desktop/moments/mvp/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/GB/.android/build-cache/2aabdd3788bd0415a1d178de5774fe4780ead4fc/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/GB/Desktop/moments/mvp/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/GB/.android/build-cache/2aabdd3788bd0415a1d178de5774fe4780ead4fc/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
